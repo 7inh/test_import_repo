@@ -1,11 +1,12 @@
 # Sample Python Dependencies
-# This file lists the Python packages required for this project
+# This file lists common Python packages for demonstration purposes
+# Not all packages are used in main.py - this is intentional for testing
 
 # Core utilities
 requests>=2.31.0
 python-dateutil>=2.8.2
 
-# Data processing
+# Data processing (common dependencies for testing)
 pandas>=2.0.0
 numpy>=1.24.0
 

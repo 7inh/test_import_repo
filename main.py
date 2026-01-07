@@ -38,7 +38,7 @@ def calculate_sum(numbers):
         numbers (list): A list of numbers to sum
         
     Returns:
-        float: The sum of all numbers
+        int or float: The sum of all numbers (type matches input types)
     """
     return sum(numbers)
 
